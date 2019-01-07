@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="img">
+    <file>resources/weather/cloudy.png</file>
+    <file>resources/weather/day.png</file>
+    <file>resources/weather/haze.png</file>
+    <file>resources/weather/more_cloudy.png</file>
+    <file>resources/weather/night.png</file>
+    <file>resources/weather/rainy.png</file>
+    <file>resources/weather/snowy.png</file>
+    <file>resources/weather/thunder.png</file>
+    <file>resources/add.png</file>
+    <file>resources/bad.png</file>
+    <file>resources/bg.jpg</file>
+    <file>resources/clear-sun.png</file>
+    <file>resources/good.png</file>
+    <file>resources/home-button.png</file>
+    <file>resources/microphone.png</file>
+    <file>resources/music-note-in-a-circle.png</file>
+    <file>resources/normal.png</file>
+    <file>resources/settings-button.png</file>
+    <file>resources/worst.png</file>
+  </qresource>
+</RCC>
