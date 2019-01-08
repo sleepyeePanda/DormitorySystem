@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="img">
+    <file>resources/subbg.jpg</file>
     <file>resources/weather/cloudy.png</file>
     <file>resources/weather/day.png</file>
     <file>resources/weather/haze.png</file>
